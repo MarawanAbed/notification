@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "407282843400",
+    "project_id": "my-firebase-toturail",
+    "storage_bucket": "my-firebase-toturail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407282843400:android:91ca3b4e446d4b9c0276bd",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407282843400-f5r1a70mt344klbs9rgdjk6h7p8ncj6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8Q9af2Gf5JdZ2B1zgevVsYAmiGuWFrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407282843400-a80qvcvovgpl85pb7v6fkcqrnhs7kphs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "407282843400-jiekd08od5o7mov2haubbgvfutkinks2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
